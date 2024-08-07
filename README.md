@@ -8,3 +8,5 @@ Installation order is as follows:
   5. Run tmux and nvim and it should install all plugins should work.
 
 For seamless integration with themeing don't forget to install https://www.nordtheme.com/ for iterm2 or whatever terminal emulator you're using. You will also want a nerd font like: https://www.jetbrains.com/lp/mono/
+
+In order for the debuggers to function for go and python, dont forget to install the delve debugger for go, and the debugpy package for python. 
